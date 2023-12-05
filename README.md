@@ -1,3 +1,3 @@
 # CODSOFT
 
-This is my GitHub Repository for CODSOFT internship.
+This is the GitHub Repository for my CODSOFT internship.
